@@ -58,6 +58,6 @@ Untuk backend dan database, gunakan repo terpisah: `backend-kontenku`
 
 ## 📸 Screenshots
 
-!(screenshoot.png)
+![app](app/screenshots.png)
 
 **Lisensi**: Proyek ini dikembangkan untuk keperluan tugas akhir mata kuliah *Pemrograman Mobile*.
